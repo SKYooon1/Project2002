@@ -24,15 +24,15 @@
 
 <br>
 
-임금격차, 출생률 저하 등 경제적으로 악환경 때문에 추가 수입을 고민하며 주식에 대한 관심 &uparrow;<sup>[1](#footnote_1)</sup> <sup>[2](#footnote_2)</sup>
+임금격차, 출생률 저하 등 경제적으로 악환경 때문에 추가 수입을 고민하며 주식에 대한 관심 증가<sup>[1](#footnote_1)</sup> <sup>[2](#footnote_2)</sup>
 
-&rightarrow; 사람들의 가치관이 과거의 저축 위주에서 투자 위주의 가치관이 바뀌는 듯한 경향<sup>[3](#footnote_3)</sup>
+&rightarrow; 사람들의 가치관이 과거의 저축 위주에서 투자 위주로 바뀌는 경향이 보인다.<sup>[3](#footnote_3)</sup>
 
 <br>
 
-현재 HTS 상황은 아직도 액티브엑스, 논액티브엑스 시절에서 머물러 있다.<sup>[4](#footnote_4)</sup> <sup>[5](#footnote_5)</sup>
+현재 HTS 기술은 아직도 옛날 액티브엑스, 논액티브엑스 시절에서 머물러 있다.<sup>[4](#footnote_4)</sup> <sup>[5](#footnote_5)</sup>
 
-&rightarrow; VR/AR 장르의 주변기기나 투자도 꾸준히 생겨나고 관련 게임도 많아지는데 HTS가 가미된 게임을 만들면 어떨까?
+&rightarrow; HTS를 중심으로 하는 게임을 만들면 어떨까?
 
 <br>
 
@@ -44,7 +44,7 @@
 
 최근 비트코인과 같은 암호화폐도 법적으로 대책을 강구해야 한다는 시선이 많아졌다.<sup>[8](#footnote_8)</sup> <sup>[9](#footnote_9)</sup> <sup>[10](#footnote_10)</sup>
 
-&rightarrow; 그럼 비트코인 HTS도 넣어야 하나? 고민의 여지가 있다.
+&rightarrow; 그럼 비트코인 투자 컨텐츠도 만들까? 아직 고민의 여지가 있다.
 
 ------
 
