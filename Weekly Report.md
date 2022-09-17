@@ -1,23 +1,9 @@
 # Weekly Meeting
 
-### 1st
-#### Last Week (2022.09.07 ~ 2022.09.13)
+지난 회의 기록
+[Past Meeting Minutes](Doc/Past Meeting Minutes.md) (updated 2022-09-17)
 
-- GitHub Repository 생성 및 규칙 합의
-- Game Idea 정리
-  - [Game Idea](Doc/Idea.md) (updated 2022-09-13)
-
----
-
-#### Next Week (2022.09.14 ~ 2022.09.20)
-
-- 구현할 컨텐츠를 위한 HTS 기능 조사
-- 게임에 사용할 주가 데이터 확보 방법 조사
-
----
-
-### 2nd
-#### Last Week (2022.09.14 ~ 2022.09.17)
+#### Last Week (2022.09.14 ~ 2022.09.20)
 
 - HTS를 중점적으로 구현할지, 자동매매 프로그램을 구현할지에 관한 선택
   - HTS를 구현 후 시간이 남으면 게임적인 부분을 구현해 보는 방법
@@ -31,3 +17,5 @@
   - 주간 회의 시간 변경에 관해
 
 ---
+
+#### Next Week (2022.09.21 ~ 2022.09.27)
