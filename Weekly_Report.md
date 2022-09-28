@@ -9,6 +9,7 @@
   - 비트코인 자동매매<sup>[1](#footnote_1)</sup>, 주식 자동매매<sup>[2](#footnote_2)</sup>
 - HTS 관련 자료 리서치
 - Auto Trading HTS Platform으로 Idea 방향 변경
+  - [Game_Structure_Planning](Doc/Game_Structure_Planning.md) (updated 2022-09-28)
 
 ---
 
