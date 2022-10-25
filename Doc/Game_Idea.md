@@ -1,7 +1,7 @@
 # Game Idea
 
 변경 전 아이디어
-- [Game Idea](Doc/Game_Idea.md) (updated 2022-09-13)
+- [Game Idea](Past_Game_Idea.md)
 
 #### 게임 개요
 과거 일정 기간동안의 주가 데이터를 기반으로 빠른 템포로 수익률을 겨루는 멀티플레이 경쟁 게임
@@ -30,4 +30,4 @@
 #### 게임 조작 방법
 
 
-<a name="footnote_1">1</a>: 모바일 게임 UPDOWN [벤치마킹](수정요)
+<a name="footnote_1">1</a>: 모바일 게임 UPDOWN [Benchmarking](Benchmarks.md)
