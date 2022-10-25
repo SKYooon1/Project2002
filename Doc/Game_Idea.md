@@ -1,6 +1,6 @@
 # Game Idea
 
-변경 전 아이디어
+#### 변경 전 아이디어
 - [Trading Simulator](Old_Trading_Simulator.md)
 - [Auto Trading Platform](Old_Trading_Platform.md)
 

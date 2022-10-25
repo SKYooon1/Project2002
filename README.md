@@ -11,5 +11,4 @@ Game Idea 정리
 
 
 지난 회의 기록
-- [Past Meeting Minutes](Doc/Old_Meeting_Minutes.md) (updated 2022-09-17)
-
+- [Old Meeting Minutes](Doc/Old_Meeting_Minutes.md) (updated 2022-09-17)
