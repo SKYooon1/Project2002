@@ -3,12 +3,12 @@
 
 
 Weekly Report
-- [Weekly Report](Weekly_Report.md) (updated 2022-09-17)
+- [Weekly Report](Weekly_Report.md)
 
 
 Game Idea 정리
-- [Game Idea](Doc/Game_Idea.md) (updated 2022-09-13)
+- [Game Idea](Doc/Game_Idea.md)
 
 
 지난 회의 기록
-- [Old Meeting Minutes](Doc/Old_Meeting_Minutes.md) (updated 2022-09-17)
+- [Old Meeting Minutes](Doc/Old_Meeting_Minutes.md)

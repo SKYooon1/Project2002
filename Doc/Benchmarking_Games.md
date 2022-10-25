@@ -1,4 +1,4 @@
-### Benchmarks
+### Benchmarking_Games
 
 #### 주식왕
 - 부재중 기능 존재 : 단순한 랜덤 폭의 종목 가격 변동으로 큰 영향은 없음</br>
