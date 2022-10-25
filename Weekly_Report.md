@@ -5,11 +5,14 @@
 
 #### Last Week (2022.09.28 ~ 2022.10.25)
 
-- 주식 관련 게임 4종 UI/UX 리서치   
-  - [Benchmarks.docx (Download)](https://github.com/SKYooon1/Project2002/blob/main/Doc/LJH%20Benchmarks.docx) (updated 2022-10-24)
-- 방향성 수정
-  - HTS Platform -> 그래프 해석을 이용한 주식 경쟁 게임.
-  - 남녀노소 모두 주식 시장 분석에 대한 장벽을 낮추고, 흥미를 느낄 수 있도록.
+- 아이디어 전면 수정
+  + [Game Idea](Doc/Game_Idea.md) (updated 2022-10-25)
+  + Auto Trading Platform &rarr; Trading Game
+  + 과거 일정 기간동안의 주가 데이터를 기반으로 빠른 템포로 수익률을 겨루는 멀티플레이 경쟁 게임
+- 주식 관련 게임 4종 벤치마킹 리서치
+  - [벤치마킹](수정요)
+
+
 ---
 
 
