@@ -1,21 +1,17 @@
 # Weekly Meeting
 
 지난 회의 기록
-[Past Meeting Minutes](Doc/Past Meeting Minutes.md) (updated 2022-09-17)
+[Past Meeting Minutes](Doc/Past_Meeting_Minutes.md) (updated 2022-10-25)
 
-#### Last Week (2022.09.14 ~ 2022.09.27)
+#### Last Week (2022.09.28 ~ 2022.10.25)
 
-- 자동매매 프로그램 관련 리서치
-  - 비트코인 자동매매<sup>[1](#footnote_1)</sup>, 주식 자동매매<sup>[2](#footnote_2)</sup>
-- HTS 관련 자료 리서치
-- Auto Trading HTS Platform으로 Idea 방향 변경
-  - [Game_Structure_Planning](Doc/Game_Structure_Planning.md) (updated 2022-09-28)
-
+- 주식 관련 게임 4종 UI/UX 리서치   
+  - [Benchmarks.docx (Download)](https://github.com/SKYooon1/Project2002/blob/main/Doc/LJH%20Benchmarks.docx) (updated 2022-10-24)
+- 방향성 수정
+  - HTS Platform -> 그래프 해석을 이용한 주식 경쟁 게임.
+  - 남녀노소 모두 주식 시장 분석에 대한 장벽을 낮추고, 흥미를 느낄 수 있도록.
 ---
 
-<a name="footnote_1">1</a>: https://wikidocs.net/book/1665
-<a name="footnote_2">2</a>: https://wikidocs.net/book/110
 
-
-#### Next Week (2022.09.28 ~ 2022.10.04)
+#### Next Week (2022.10.25 ~ 2022.11.02)
 
