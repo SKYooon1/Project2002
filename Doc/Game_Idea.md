@@ -1,7 +1,8 @@
 # Game Idea
 
 변경 전 아이디어
-- [Game Idea](Past_Game_Idea.md)
+- [Trading Simulator](Old_Trading_Simulator.md)
+- [Auto Trading Platform](Old_Trading_Platform.md)
 
 #### 게임 개요
 과거 일정 기간동안의 주가 데이터를 기반으로 빠른 템포로 수익률을 겨루는 멀티플레이 경쟁 게임
@@ -22,8 +23,6 @@
 - 절대 경쟁과 상대 경쟁 방식의 로컬 플레이
     + 수익률을 어떻게 높게 가져갈 수 있느냐에 대한 솔로 로컬 플레이
     + Auto trading algorithm 기반 AI와의 수익률 경쟁을 하는 경쟁 로컬 플레이
-
-#### 스크린샷
 
 #### 구현 내용
 

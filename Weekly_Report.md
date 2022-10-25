@@ -1,7 +1,7 @@
 # Weekly Meeting
 
 지난 회의 기록
-[Past Meeting Minutes](Doc/Past_Meeting_Minutes.md)
+[Old Meeting Minutes](Doc/Old_Meeting_Minutes.md)
 
 #### Last Week (2022.09.28 ~ 2022.10.25)
 
