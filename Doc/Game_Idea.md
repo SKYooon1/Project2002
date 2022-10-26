@@ -29,4 +29,4 @@
 #### 게임 조작 방법
 
 
-<a name="footnote_1">1</a>: 모바일 게임 UPDOWN [Benchmarking](Benchmarks.md)
+<a name="footnote_1">1</a>: 모바일 게임 UPDOWN [Benchmarking](Benchmarking_Games.md)
