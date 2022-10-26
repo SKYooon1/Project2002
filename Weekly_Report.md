@@ -14,7 +14,7 @@
   + 게임 구현 내용 및 게임 조작 방법 초안 작성
     * [Implements](Doc/Implements.md)
 - 주식 관련 게임 4종 벤치마킹 리서치
-  - [Benchmarking Games](Doc/Benchmarks.md)
+  - [Benchmarking Games](Doc/Benchmarking_Games.md)
 
 ---
 
