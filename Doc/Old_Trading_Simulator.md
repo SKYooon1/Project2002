@@ -99,4 +99,4 @@ https://www.radiokorea.com/news/article.php?uid=396948<br>
 <a name="footnote_9">9</a>: 국내 재진출 시동 건 해외 가상자산 거래소들 (디지털투데이)<sup>[return](#footnote_return)</sup><br>
 https://www.digitaltoday.co.kr/news/articleView.html?idxno=460204<br>
 <a name="footnote_10">10</a>: 접속차단 16개 코인 거래소...투자자 대응 방법과 조치할 것들 (블록미디어)<sup>[return](#footnote_return)</sup><br>
-https://www.blockmedia.co.kr/archives/249974<br>
+https://www.blockmedia.co.kr/archives/249974
