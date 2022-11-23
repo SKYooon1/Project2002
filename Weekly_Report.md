@@ -3,28 +3,17 @@
 지난 회의 기록
 [Old Meeting Minutes](Doc/Old_Meeting_Minutes.md)
 
-#### Last Week (2022.09.28 ~ 2022.10.25)
+#### Last Week (2022.10.25 ~ 2022.11.23)
 
-- 아이디어 전면 수정
-  + [Game Idea](Doc/Game_Idea.md)
-  + Auto Trading Platform &rarr; Trading Game
-  + 과거 일정 기간동안의 주가 데이터를 기반으로 빠른 템포로 수익률을 겨루는 멀티플레이 경쟁 게임
-- Game Idea 기획
-  + 게임 개요 작성
-  + 게임 구현 내용 및 게임 조작 방법 초안 작성
-    * [Implements](Doc/Implements.md)
-- 주식 관련 게임 4종 벤치마킹 리서치
-  - [Benchmarking Games](Doc/Benchmarking_Games.md)
+- Presentation Open document 작성
+[Presentation](Present.odp)
+- Auto trading algorithms 리서치
+[Auto Trading](Auto_trading_algorithms.md)
 
 ---
 
 
-#### Next Week (2022.10.25 ~ 2022.11.02)
+#### Next Week (2022.11.23 ~ 2022.11.30)
 
-- 게임 구현 내용 구체화
-- 게임 조작 방법 구체화
-- Auto trading algorithms 리서치
-- 게임 제작 환경 논의
-  + 무엇을 사용해 제작할 것인가?
-  + 어떻게 제작할 것인가?
-- 게임 아이디어 문서 구체화 및 프로토타입 제작
+- 게임 및 주식 투자 튜토리얼 구성 방안 구체화
+- 게임 로비 구성 스케치
