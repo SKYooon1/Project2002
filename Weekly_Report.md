@@ -8,7 +8,7 @@
 - Presentation Open document 작성
 [Presentation](Present.odp)
 - Auto trading algorithms 리서치
-[Auto Trading](Auto_trading_algorithms.md)
+[Auto Trading](Doc/Auto_trading_algorithms.md)
 
 ---
 
